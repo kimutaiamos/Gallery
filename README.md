@@ -10,5 +10,10 @@ users get get various choices on what gallerys they want to view
 ## Technologies used
 
 ```
+python3.8
+django3.2
+CSS,bootstrap
+git
+```
 
 
