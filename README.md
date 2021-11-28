@@ -14,7 +14,6 @@ python3.8
 django3.2
 CSS,bootstrap
 git
-```
 ## set up and installation
 
 1. Clone or download the Repo using git clone https://github.com/kimutaiamos/Gallery.git
