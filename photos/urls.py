@@ -7,3 +7,4 @@ urlpatterns=[
     url('',welcome,name='welcome'),
     # url('search/',search_results, name = 'search_results')
 ]
+
