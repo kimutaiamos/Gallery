@@ -16,14 +16,14 @@ CSS,bootstrap
 git
 ```
 ## set up and installation
-```
+
 1. Clone or download the Repo using git clone https://github.com/kimutaiamos/Gallery.git
 2. Create a virtual environment
 3. Read the specs and requirements files and Install all the requirements.  
 5. Run python3.8 manage.py runserver
 6. Access the application through `localhost:8000`
-
-``## known bugs
+```
+## known bugs
 
 There are no known bugs but incase of any issue let me know through kimutaiamos82@gmail.com
 
