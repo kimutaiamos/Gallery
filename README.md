@@ -17,7 +17,7 @@ git
 ```
 ## set up and installation
 ```
-1. Clone or download the Repo
+1. Clone or download the Repo using git clone https://github.com/kimutaiamos/Gallery.git
 2. Create a virtual environment
 3. Read the specs and requirements files and Install all the requirements.  
 5. Run python3.8 manage.py runserver
