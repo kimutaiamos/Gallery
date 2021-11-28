@@ -16,5 +16,13 @@ CSS,bootstrap
 git
 ```
 ## set up and installation
+```
+1. Clone or download the Repo
+2. Create a virtual environment
+3. Read the specs and requirements files and Install all the requirements.  
+5. Run python3.8 manage.py runserver
+6. Access the application through `localhost:8000`
+
+```
 
 
