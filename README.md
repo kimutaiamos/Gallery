@@ -23,6 +23,8 @@ git
 5. Run python3.8 manage.py runserver
 6. Access the application through `localhost:8000`
 
-```
+``## known bugs
+
+There are no known bugs but incase of any issue let me know through kimutaiamos82@gmail.com
 
 
