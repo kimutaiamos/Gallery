@@ -26,5 +26,10 @@ git
 ``## known bugs
 
 There are no known bugs but incase of any issue let me know through kimutaiamos82@gmail.com
+## license
+
+This software is LIcensed under MIT license copyright 2019 [sirAmos]
+
+`
 
 
