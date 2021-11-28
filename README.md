@@ -7,4 +7,8 @@ This a personaAbout This a personal gallery ,with my different categories displa
 personal gallery is a web based application that allows users to view my favourite photos .a user can copy photo url
 ## users interface
 users get get various choices on what gallerys they want to view
+## Technologies used
+
+```
+
 
