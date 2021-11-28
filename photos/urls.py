@@ -1,7 +1,9 @@
 from django.conf.urls import url
-from django.urls.resolvers import urlPattern
-from .import views
+from .views import welcome,gallery,search_results
+from django.conf import settings
 
-# urlPattern=[
-#     url('^',views.welcome,name= 'welcome'),
-# ]
+
+urlpatterns=[
+    url('',welcome,name='welcome'),
+    # url('search/',search_results, name = 'search_results')
+]
