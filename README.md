@@ -26,6 +26,11 @@ git
 ``## known bugs
 
 There are no known bugs but incase of any issue let me know through kimutaiamos82@gmail.com
+
+### contributing
+my website is build with little knowledge in the django framework,it is however,open to anyone who would wish to contribute to this project.
+you can also refer here https://stackoverflow.com/questions/8503559/what-is-linting to learn more and run tests. and the current django 3.2 documentation
+software methods and tools refer herehttp://www.methodsandtools.com/archive/archive.php?id=33.
 ## license
 
 This software is LIcensed under MIT license copyright 2019 [sirAmos]
