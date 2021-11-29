@@ -9,5 +9,7 @@ urlpatterns=[
     url('',search_results, name = 'search_results'),
     url('',gallery, name='gallery') 
 ]
+if settings.DEBUG:
+    urlpatterns+= static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)
 
 
