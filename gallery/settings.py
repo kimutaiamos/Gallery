@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-STATIC_URL = '/static/'
+
 # Application definition
 
 INSTALLED_APPS = [
@@ -125,3 +125,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+MEDIA_URL = '/media/'
+MEDIA_ROOT = '/path_to_/gallery/media'
