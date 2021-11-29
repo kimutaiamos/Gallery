@@ -1,14 +1,14 @@
 body{
-    background-image:url(/static/light.jpg);
-    background-attachment:fixed;
-    background-repeat:no-repeat;
-    background-position:center;
-    background-size:cover;
-     }
-    
-     .modalcard{
-      background-color:rgba(37, 36, 34, 0.925);
-      color:white;
-      border:none;
-      font-style: italic;
-      }
+background-image:url('https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80');
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+
+ .modalcard{
+  background-color:rgba(37, 36, 34, 0.925);
+  color:white;
+  border:none;
+  font-style: italic;
+  }
