@@ -46,17 +46,17 @@ class CategoryTestClass(TestCase):
         self.assertTrue(len(categories) == 0)
 
 
-class ImageTestClass(TestCase):
+# class ImageTestClass(TestCase):
 
-    # Set up method
-    def setUp(self):
-        nairobi = Location(first_name='nairobi')
-        nairobi.save()
-        fashion= Category(name = 'Fashion')
-        fashion.save()
+#     # Set up method
+#     def setUp(self):
+#         nairobi = Location(first_name='nairobi')
+#         nairobi.save()
+#         fashion= Category(name = 'Fashion')
+#         fashion.save()
 
-        self.image= Image(image = 'jpg', image_name= 'image', image_description= 'hotels', image_location= nairobi,image_category=fashion)
-        self.image.save()
+#         self.image= Image(image = 'jpg', image_name= 'image', image_description= 'hotels', image_location= nairobi,image_category=fashion)
+#         self.image.save()
 
     # Testing  instance
     def test_instance(self):
